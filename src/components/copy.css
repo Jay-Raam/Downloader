@@ -1,0 +1,23 @@
+.copy-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    border-top: 2px solid #00000092;
+    padding: 20px;
+    gap: 20px;
+}
+
+.copy-container p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.copy-container a{
+    color: blue;
+    text-decoration: none;
+}
+.copy-container a:hover{
+    text-decoration: underline;
+}
