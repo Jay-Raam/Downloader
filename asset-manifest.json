@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Downloader/static/css/main.82303780.css",
+    "main.js": "/Downloader/static/js/main.b389d056.js",
+    "static/js/453.8d76a58d.chunk.js": "/Downloader/static/js/453.8d76a58d.chunk.js",
+    "static/media/user-imge.png": "/Downloader/static/media/user-imge.753da779665856fe6222.png",
+    "index.html": "/Downloader/index.html",
+    "main.82303780.css.map": "/Downloader/static/css/main.82303780.css.map",
+    "main.b389d056.js.map": "/Downloader/static/js/main.b389d056.js.map",
+    "453.8d76a58d.chunk.js.map": "/Downloader/static/js/453.8d76a58d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82303780.css",
+    "static/js/main.b389d056.js"
+  ]
+}
